@@ -78,17 +78,19 @@
 <h3 align="center"><b>Projects that i have made:</b></h3>
 
 <table align="center">
+  <thead>
+    <tr>
+      <th width="50%"><a>Notes_APP - NotesFree</a></th>
+      <th width="50%"><a>Weather_APP</a></th>
+    </tr>
+  </thead>
   <tr>
-    <td align="center" width="300">
-      <a href=>
-        <img alt="DemoNotes" src="https://github.com/CFChristian/CFChristian/blob/main/GIF/DemoNotes.gif" width="50%" />
-        <br><b>Notes_APP - NotesFree</b>
-      </a>
+    <td align="center">
+      <a href="https://github.com/CFChristian/NotesFree"><img width="100%" src="https://github.com/CFChristian/CFChristian/blob/main/GIF/DemoNotes.gif"></a>
     </td>
-    <td align="center" width="300">
+    <td align="center">
       <a href="">
-        <img src="" alt="Coming soon"/>
-        <br><b>Forecasting_APP - WeatherApp</b>
+        <img src="" alt=""/> IN PROGRESS
       </a>
     </td>
   </tr>
@@ -97,33 +99,34 @@
 <h3 align="center"><b>Projects that i have contributed to:</b></h3>
 
 <table align="center">
+  <thead>
+    <tr>
+      <th width="50%"><a>Adoption_APP - CatHaven</a></th>
+      <th width="50%"><a>Chat_APP - CloudTalk</a></th>
+    </tr>
+  </thead>
   <tr>
-    <td align="center" width="300">
-      <a href=>
-        <img src="https://github.com/CFChristian/CFChristian/blob/main/GIF/CatHavenDemo.gif" alt="CatHaven" width="100%" />
-        <br><b>Adoption_APP - CatHaven</b>
-      </a>
+    <td align="center">
+      <a href="https://github.com/KvJellyBean/cat-haven"><img width="30%" src="https://github.com/CFChristian/CFChristian/blob/main/GIF/CatHavenDemo.gif"></a>
     </td>
-    <td align="center" width="300">
-      <a href=>
-        <img src="https://github.com/CFChristian/CFChristian/blob/main/GIF/CloudTalkDemo.gif" alt="CloudTalk"/>
-        <br><b>Chat_APP - CloudTalk</b>
-      </a>
+    <td align="center">
+      <a href="https://github.com/ryanthony6/flutter_chatapp"><img width="30%" src="https://github.com/CFChristian/CFChristian/blob/main/GIF/CloudTalkDemo.gif"></a>
     </td>
   </tr>
+  <thead>
+    <tr>
+      <th width="50%"><a>Adoption_WEB - PetMeOut</a></th>
+      <th width="50%"><a>Reservation_WEB - CahayaSports</a></th>
+    </tr>
+  </thead>
   <tr>
-    <td align="center" width="300">
-      <a href=>
-        <img src="https://github.com/CFChristian/CFChristian/blob/main/Image/PetMeOut.png" alt="PetMeOut" width="100%" />
-        <br><b>Adoption_WEB - PetMeOut</b>
-      </a>
+    <td align="center">
+      <a href="https://github.com/ryanthony6/PetMeOut"><img width="100%" src="https://github.com/CFChristian/CFChristian/blob/main/Image/PetMeOut.png"></a>
     </td>
-    <td align="center" width="300">
-      <a href=>
-        <img src="https://github.com/CFChristian/CFChristian/blob/main/Image/CahayaSport.png" alt="CahayaSport"/>
-        <br><b>Reservation_WEB - CahayaSports</b>
-      </a>
+    <td align="center">
+      <a href="https://github.com/ryanthony6/cahaya_sports"><img width="100%" src="https://github.com/CFChristian/CFChristian/blob/main/Image/CahayaSport.png"></a>
     </td>
   </tr>
 </table>
+
 
