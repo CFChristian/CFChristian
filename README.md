@@ -10,7 +10,7 @@
 <h3 align="center">📫 How to reach me:</h3>
 <p align="center">
   <a href="mailto:christianfernando671@gmail.com">christianfernando671@gmail.com</a> |
-  <a href="www.linkedin.com/in/cfchristian">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/cfchristian">LinkedIn</a>
 </p>
 
 - 🌱 I’m currently learning **Kotlin, Jetpack Compose (Kotlin), and Flutter**
