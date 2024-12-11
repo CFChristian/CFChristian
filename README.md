@@ -1,7 +1,7 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&height=18&width=340&vCenter=true&lines=Welcome+To+My+GITHUB+Profile..." > </h1>
 
-<p align="center"><img alt="Coding" width="80%" src=""></p> //GIF
+<p align="center"><img alt="Coding" width="80%" src="https://github.com/CFChristian/CFChristian/blob/main/GIF/ImageGif.gif"></p>
 
 <h1 align="center">Hi 👋 there, I'm Christian Fernando</h1>
 
@@ -9,8 +9,8 @@
 
 <h3 align="center">📫 How to reach me:</h3>
 <p align="center">
-  <a href="mailto:"></a> |
-  <a href="">LinkedIn</a>
+  <a href="mailto:christianfernando671@gmail.com">christianfernando671@gmail.com</a> |
+  <a href="www.linkedin.com/in/cfchristian">LinkedIn</a>
 </p>
 
 - 🌱 I’m currently learning **Kotlin, Jetpack Compose (Kotlin), and Flutter**
@@ -75,16 +75,13 @@
 </table>
 
 
-
-<img src="">
-
 <h3 align="center"><b>Projects that i have made:</b></h3>
 
 <table align="center">
   <tr>
     <td align="center" width="300">
       <a href=>
-        <img src="" alt="" width="100%" />
+        <img alt="DemoNotes" src="https://github.com/CFChristian/CFChristian/blob/main/GIF/DemoNotes.gif" width="50%" />
         <br><b>Notes_APP - NotesFree</b>
       </a>
     </td>
@@ -103,13 +100,13 @@
   <tr>
     <td align="center" width="300">
       <a href=>
-        <img src="" alt="" width="100%" />
+        <img src="https://github.com/CFChristian/CFChristian/blob/main/GIF/CatHavenDemo.gif" alt="CatHaven" width="100%" />
         <br><b>Adoption_APP - CatHaven</b>
       </a>
     </td>
     <td align="center" width="300">
-      <a href="">
-        <img src="" alt=""/>
+      <a href=>
+        <img src="https://github.com/CFChristian/CFChristian/blob/main/GIF/CloudTalkDemo.gif" alt="CloudTalk"/>
         <br><b>Chat_APP - CloudTalk</b>
       </a>
     </td>
@@ -117,17 +114,16 @@
   <tr>
     <td align="center" width="300">
       <a href=>
-        <img src="" alt="" width="100%" />
+        <img src="https://github.com/CFChristian/CFChristian/blob/main/Image/PetMeOut.png" alt="PetMeOut" width="100%" />
         <br><b>Adoption_WEB - PetMeOut</b>
       </a>
     </td>
     <td align="center" width="300">
-      <a href="">
-        <img src="" alt=""/>
+      <a href=>
+        <img src="https://github.com/CFChristian/CFChristian/blob/main/Image/CahayaSport.png" alt="CahayaSport"/>
         <br><b>Reservation_WEB - CahayaSports</b>
       </a>
     </td>
   </tr>
 </table>
 
-<img src="" width="100%">
